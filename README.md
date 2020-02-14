@@ -22,6 +22,8 @@ https://github.com/SiteHuang/Building-a-Cloud-System
 
 # create conda env
 
+# install ansible
+
 # install python-openstackclient
 
 per installation section of this doc..
